@@ -1,0 +1,770 @@
+[2017-08-21 16:01:42] Текст ошибки: Нет соединения с БД | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2019-01-25 12:08:35] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.test' doesn't exist | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-25 12:08:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 12:09:39] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testovoe.test' doesn't exist | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-25 12:10:36] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testovoe.test' doesn't exist | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-25 12:10:38] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testovoe.test' doesn't exist | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-25 12:10:40] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testovoe.test' doesn't exist | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-25 12:10:40] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testovoe.test' doesn't exist | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-25 12:10:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testovoe.test' doesn't exist | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-25 12:10:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 13:52:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 13:53:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 13:58:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 13:58:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 13:58:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:12:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:15:55] Текст ошибки: OODB Store requires a bean, got: NULL | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\OODB.php | Строка: 119
+=================
+[2019-01-25 14:16:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:23:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:24:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:25:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:25:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:25:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:27:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:27:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:27:37] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:27:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:27:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:29:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:29:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:30:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:31:48] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:34:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:36:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:36:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:37:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:38:43] Текст ошибки: Контроллер app\controllers\AddController не найден | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2019-01-25 14:39:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:39:25] Текст ошибки: Контроллер app\controllers\IndexController не найден | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2019-01-25 14:44:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:48:55] Текст ошибки: На найден вид C:\OSPanel\domains\pdo/app/views/Add/index.php | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2019-01-25 14:50:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 14:55:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 15:39:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 15:41:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 16:00:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 16:10:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:13:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:14:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:15:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:44:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:45:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:50:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:50:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:50:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:51:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:51:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:53:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:53:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:54:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:54:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:58:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 21:59:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:00:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:00:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:00:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:01:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:01:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:06:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:07:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:07:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:07:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:07:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:16:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:17:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:17:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:19:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:29:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:30:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:30:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:30:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:30:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:30:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:44:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:44:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:44:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:44:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:46:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:47:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:47:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:47:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:47:37] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:48:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:48:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:49:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:49:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:49:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:58:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 22:59:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:01:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:03:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:03:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:05:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:05:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:08:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:08:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:08:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:13:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:13:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:13:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:13:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:13:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:13:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:16:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:17:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:18:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:18:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:18:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:19:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:19:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:21:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:21:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:23:00] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:23:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:27:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:27:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:29:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:29:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:29:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:30:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:30:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:30:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:31:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:50:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:57:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:59:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:59:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-25 23:59:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:00:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:00:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:00:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:01:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:07:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:14:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:15:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:15:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:16:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:20:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:20:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:21:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:21:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:24:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:25:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:25:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:25:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:25:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:33:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:34:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:35:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:35:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:36:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:36:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:37:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:37:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:38:22] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:38:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:39:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:40:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:41:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 00:41:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 12:06:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:09:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:10:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:11:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:11:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:12:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:13:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:13:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:14:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:14:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:16:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:18:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:19:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:19:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:20:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:21:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:23:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:26:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:26:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:26:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:27:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:27:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:27:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:27:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:27:27] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:28:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:30:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:53:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:53:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:54:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 13:55:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:38:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:38:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:38:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:38:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:38:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:38:21] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:52:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:55:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:55:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:55:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:56:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:57:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 14:57:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:00:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:00:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:06:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:06:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:07:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:44:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:45:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:45:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:45:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:45:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:45:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:46:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:46:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:47:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:47:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 15:47:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 16:35:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 16:35:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 16:35:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 16:35:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 16:36:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 16:37:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 16:54:18] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`testovoe`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`id`) REFERENCES `img` (`id`) ON DELETE CASCADE ON UPDATE NO ACTION) | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-26 16:54:23] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`testovoe`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`id`) REFERENCES `img` (`id`) ON DELETE CASCADE ON UPDATE NO ACTION) | Файл: C:\OSPanel\domains\pdo\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-01-26 17:47:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 17:47:46] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 17:47:50] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2019-01-26 17:48:05] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2019-01-26 17:48:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 17:48:09] Текст ошибки: Метод app\controllers\MainController::deleteAction не найден | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2019-01-26 17:50:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 17:51:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 17:51:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 17:51:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 17:51:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:16:04] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:16:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:17:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:17:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:19:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:20:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:21:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:21:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 18:22:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:14:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:14:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:15:06] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:15:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:15:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:24:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:24:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:25:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:25:50] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:26:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:26:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:27:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:29:10] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:29:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:29:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:30:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:31:48] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:31:51] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:32:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:32:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:32:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:33:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:35:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:35:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:37:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:38:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:38:29] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:39:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:39:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:40:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:40:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:40:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:40:35] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:40:38] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:40:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:41:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:41:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:41:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:41:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:41:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:42:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:42:41] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:42:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:44:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:44:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:45:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:45:24] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:45:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:45:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:46:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:46:20] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:46:43] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:46:54] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:47:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 19:47:36] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:00:16] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:00:18] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:01:59] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:03:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:04:08] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:04:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:04:58] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:10:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:10:30] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:10:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:11:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:12:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:20:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:22:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:22:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:22:52] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:22:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:23:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:23:39] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:23:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:24:48] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:24:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:25:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:25:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:27:03] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:27:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:27:53] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:30:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:30:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:31:37] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:32:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:33:36] Текст ошибки: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file | Файл: C:\OSPanel\domains\pdo\app\views\Main\index.php | Строка: 30
+=================
+[2019-01-26 20:34:53] Текст ошибки: syntax error, unexpected end of file | Файл: C:\OSPanel\domains\pdo\app\views\Main\index.php | Строка: 32
+=================
+[2019-01-26 20:34:54] Текст ошибки: syntax error, unexpected end of file | Файл: C:\OSPanel\domains\pdo\app\views\Main\index.php | Строка: 32
+=================
+[2019-01-26 22:22:13] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 22:23:45] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 22:24:07] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 22:24:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 22:24:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\pdo\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-01-26 20:21:58] Текст ошибки: Нет соединения с БД | Файл: /storage/ssd5/462/8570462/public_html/vendor/ishop/core/Db.php | Строка: 14
+=================
+[2019-01-26 20:29:05] Текст ошибки: Нет соединения с БД | Файл: /storage/ssd5/462/8570462/public_html/vendor/ishop/core/Db.php | Строка: 14
+=================
+[2019-01-26 20:30:11] Текст ошибки: Нет соединения с БД | Файл: /storage/ssd5/462/8570462/public_html/vendor/ishop/core/Db.php | Строка: 14
+=================
+[2019-01-26 20:30:14] Текст ошибки: Нет соединения с БД | Файл: /storage/ssd5/462/8570462/public_html/vendor/ishop/core/Db.php | Строка: 14
+=================
+[2019-01-26 20:45:25] Текст ошибки: Страница не найдена | Файл: /storage/ssd5/462/8570462/public_html/vendor/ishop/core/Router.php | Строка: 39
+=================
+[2019-01-26 20:45:35] Текст ошибки: Страница не найдена | Файл: /storage/ssd5/462/8570462/public_html/vendor/ishop/core/Router.php | Строка: 39
+=================
+[2019-01-27 00:34:26] Текст ошибки: Нет соединения с БД | Файл: C:\OSPanel\domains\testovoe\vendor\ishop\core\Db.php | Строка: 14
+=================
